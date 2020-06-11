@@ -1,20 +1,5 @@
 {
-  "docsets_to_publish": [
-    {
-      "docset_name": "newart-test",
-      "build_source_folder": "newart-test",
-      "build_output_subfolder": "newart-test",
-      "locale": "es-mx",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": false,
-      "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    }
-  ],
+  "docsets_to_publish": [],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
